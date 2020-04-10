@@ -1,3 +1,3 @@
 print('Enter your name')
-k = raw_input()
-print('My name is ' + k)
+k_name = raw_input()
+print('My name is ' +k_name)
